@@ -13,7 +13,6 @@ Air quality prediction at exactly 24 hours after a 5-day series of hourly weathe
   
 # Competition Results:
 >
-> Random Forest:  RMSE = 60.5
->
-> XGBoost:        RMSE = 63.6
->
+> XGBoost:        RMSE = 39.1
+> 
+> Challenge Position:    87 / 205 
