@@ -1,4 +1,4 @@
-# AirQo-Prediction
+# Air Quality Forecasting (AirQo Challenge)
 Air Quality Prediction based on Zindi competition: https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge
 
 # Goal:
