@@ -14,4 +14,5 @@ Air quality prediction for Uganda at exactly 24 hours after a 5-day series of ho
 # Competition Results:
   XGBoost:        RMSE = 37.95
 
-# Challenge Position:    48 / 212
+# Challenge Position:    49 / 212
+
