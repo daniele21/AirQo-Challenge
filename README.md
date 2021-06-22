@@ -1,19 +1,63 @@
-# Air Quality Forecasting (AirQo Challenge)
-Air Quality Prediction based on Zindi competition: https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge
+# Air Quality Forecasting Project
 
-# Goal:
+![Licence](https://img.shields.io/badge/Licence-MIT-orange)
+
+Libraries: 
+
+![catboost](https://img.shields.io/badge/Catboost-brightgreen)
+![xgboost](https://img.shields.io/badge/XGBoost-brightgreen)
+![Scikit_learn](https://img.shields.io/badge/Scikit_Learn-brightgreen)
+![Pandas](https://img.shields.io/badge/Pandas-brightgreen)
+
+Dependences:
+
+![Python](https://img.shields.io/badge/Python-yellow)
+
+## Contents
+- [Description](#description)
+- [Dataset](#dataset)
+- [Task](#task)
+- [Solutions](#solutions)
+- [Evaluation](#evaluation)
+- [Result](#result)
+
+------------------------
+
+# Description
 Air quality prediction for Uganda at exactly 24 hours after a 5-day series of hourly weather data readings which include temperature, rainfall, wind, and humidity.
+This project is based on Zindi [competition](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge). Here you can read the full [description](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge) of the challenge
 
-# Model used:
-  - Linear Regression, Ridge, Lasso
-  - Random Forest, XGBoost
-  
-# Evaluation:
-  - RMSE
-  
-# Competition Results:
-  XGBoost:        RMSE = 37.95
+# Dataset
+Dataset details available at [zindi challenge data](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/data)
 
-# Challenge Position:    49 / 212
-https://github.com/daniele21/AirQo-Challenge/blob/master/Certification.pdf
+# Task
+Multi-Variate Time-Series Forecasting
 
+# Solutions
+- Classic ML Algorithms
+  - Linear Regression
+  - Ridge Regression
+  - Lasso Regression
+
+- Ensemble Algorithms
+  - Random Forest
+  - Catboost
+  - XGBoost
+
+# Evaluation
+
+- RMSE
+
+# Result
+
+XGBoost: RMSE = 37.95
+
+[competition_certification](https://github.com/daniele21/AirQo-Challenge/blob/master/Certification.pdf)
+
+------------------------
+
+
+#### Author
+Daniele Moltisanti
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-Daniele%20Moltisanti-blue)](https://www.linkedin.com/in/daniele-moltisanti/)
