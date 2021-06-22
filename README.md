@@ -2,6 +2,9 @@
 
 ![Licence](https://img.shields.io/badge/Licence-MIT-orange)
 
+![Python](https://img.shields.io/badge/Python-yellow)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-orange)
+
 Libraries: 
 
 ![catboost](https://img.shields.io/badge/Catboost-brightgreen)
@@ -9,9 +12,6 @@ Libraries:
 ![Scikit_learn](https://img.shields.io/badge/Scikit_Learn-brightgreen)
 ![Pandas](https://img.shields.io/badge/Pandas-brightgreen)
 
-Dependences:
-
-![Python](https://img.shields.io/badge/Python-yellow)
 
 ## Contents
 - [Description](#description)
